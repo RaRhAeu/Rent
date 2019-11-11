@@ -8,3 +8,6 @@ python3 ./rent --in [input file] --chk [chunk size in bytes] --out [output file]
 ```
 python3 ./rent -h
 ```
+
+## Example result
+![res](https://github.com/RaRhAeu/Rent/blob/master/Figure_1.png)
